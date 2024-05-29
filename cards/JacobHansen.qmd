@@ -8,6 +8,4 @@ description: "Data Scientist, Southern Denmark University"
 
 [![](LinkedIN.png){width=50}](https://www.linkedin.com/in/jacobfh)   [![](Github_black.png){width=50}](https://github.com/jacobfh1)   [![](Outlook.png){width=50}](jfredegaard@bmb.sdu.dk?subject=Test)   [![](mapPin.png){width=50}](https://www.sdu.dk/en/forskning/biomedical-ms)   [![](www.png){width=50}](https://jacobfh.com/)   
 
-Jacob is a Sandbox data scientist based at the university of Southern Denmark in Odense, and he is specialized in the proteomics applications.
-
-
+Jacob is a Sandbox data scientist based at the University of Southern Denmark, part of the Protein Research Group in the Department of Biochemistry and Molecular Biology. He specializes in proteomics applications and protein structure prediction tools. Jacob has a background in biochemistry and molecular biology (BSc) and computational biomedicine (MSc). Before digging into the Health Data Science Sandbox, he worked with transcriptomics and epigenomics, focusing on the analysis and evaluation of transcription factor binding as a biophysical process.
